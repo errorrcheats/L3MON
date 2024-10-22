@@ -33,7 +33,7 @@ If you like my work join my [telegram channel](https://telegram.me/errorrcheats)
 Copy this command and paste in your terminal
 
 ```
-apt-get update -y && apt-get upgrade -y && pkg install git -y && git clone https://github.com/errorrcheats/L3MON-Main.git && cd L3MON && bash lemon.sh
+apt-get update -y && apt-get upgrade -y && pkg install git -y && git clone https://github.com/errorrcheats/L3MON.git && cd L3MON && bash lemon.sh
 ```
 
 ## **L3MON SETUP**

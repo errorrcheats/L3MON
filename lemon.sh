@@ -21,7 +21,7 @@ echo '
  clear
 
 cd $HOME/L3MON
-git clone https://github.com/errorrcheats/Java-8.git
+git clone https://github.com/errorrcheats/Java.git
 cd Java
 bash java.sh
 clear
